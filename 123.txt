@@ -1,0 +1,11 @@
+int [] ar= new int [5];
+ar [0]=10;
+ar [1]=20;
+ar [2]=30;
+set<integer>s=new LinkedHashSet<Integer>();
+for(int i=0;i<ar.length;i++){
+s.add(ar[i]);
+}
+for (Integer arrr: s){
+system.out.println(arr);
+}
